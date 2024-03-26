@@ -1,3 +1,3 @@
-![home](img/home.png)
-![product](img/product.png)
-![about-us](img/about.png)
+![home](img/home.jpeg)
+![product](img/product.jpeg)
+![about-us](img/about.jpeg)
